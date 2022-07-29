@@ -1,0 +1,19 @@
+body{
+	background-color: silver;
+}
+
+div{
+    display: inline-block;
+    padding: 18px;
+}
+
+p{
+	font-size: 20px;
+}
+
+.copyright {
+	font-size: 20pt;
+	text-align: right;
+	padding-bottom: 10px;
+}
+
